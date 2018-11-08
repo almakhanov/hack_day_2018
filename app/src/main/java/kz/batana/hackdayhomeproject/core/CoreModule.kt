@@ -30,7 +30,7 @@ fun createOkHttpClient(): OkHttpClient {
  */
 inline fun <reified T> createService(okHttpClient: OkHttpClient): T {
     val retrofit = Retrofit.Builder()
-        .baseUrl("")
+        .baseUrl("http://192.168.43.159:1234/")
         .client(okHttpClient)
         .addConverterFactory(GsonConverterFactory.create())
         .addCallAdapterFactory(RxErrorHandlingCallAdapterFactory.create()).build()

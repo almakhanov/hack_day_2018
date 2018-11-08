@@ -11,10 +11,10 @@
         <u>Восстановить пароль</u>
     </string>
     <string name="login_content_description">Background</string>
-    <string name="login_dar">
-        <b>DAR</b>
+    <string name="login_home">
+        <b>Home Credit Bank</b>
     </string>
-    <string name="login_logistics">Decathlon</string>
+    <string name="login_home_bank">Home Credit</string>
     <string name="login_auth_error">Ошибка при входе</string>
     <string name="login_empty_email">Введите свой E-mail</string>
     <string name="login_empty_password">Введите свой пароль</string>
