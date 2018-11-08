@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "646128494669",
+    "firebase_url": "https://homebank-167e1.firebaseio.com",
+    "project_id": "homebank-167e1",
+    "storage_bucket": "homebank-167e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646128494669:android:c74bdc3baa0f7a39",
+        "android_client_info": {
+          "package_name": "kz.batana.hackdayhomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646128494669-tt7sjrcis6m3jfsi1p6v11rjo5ie2sg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlMuUHpmlz8Mo3RNGrdQEg0kF_FK64aqs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
